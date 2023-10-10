@@ -3,4 +3,4 @@
 **Autor:** Diego Alonso Molina  
 **Profesión:** Mid Gopher-Infused Full Stack Developer
 
-En este ejemplo, practicaremos para el examen del primer tema tanto de DWEC como DIW
+En este ejemplo, practicaremos para el examen del primer tema tanto de DWEC como DIW.
